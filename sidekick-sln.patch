@@ -1,0 +1,13 @@
+--- Sidekick.sln	2025-02-04 17:08:43.444556035 -0500
++++ Sidekick-modified.sln	2025-02-04 17:25:03.867240919 -0500
+@@ -57,8 +57,8 @@
+ EndProject
+ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sidekick.Apis.PoeWiki", "src\Sidekick.Apis.PoeWiki\Sidekick.Apis.PoeWiki.csproj", "{4DAA5492-5947-4BDF-8857-67A633F94672}"
+ EndProject
+-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sidekick.Wpf", "src\Sidekick.Wpf\Sidekick.Wpf.csproj", "{0E8A5165-AFEE-42BB-9C96-EA288F613BDE}"
+-EndProject
++#Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sidekick.Wpf", "src\Sidekick.Wpf\Sidekick.Wpf.csproj", "{0E8A5165-AFEE-42BB-9C96-EA288F613BDE}"
++#EndProject
+ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sidekick.Web", "src\Sidekick.Web\Sidekick.Web.csproj", "{9668241B-2FDC-46A6-9440-C4AE4B9AE39B}"
+ EndProject
+ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sidekick.Modules.Wealth", "src\Sidekick.Modules.Wealth\Sidekick.Modules.Wealth.csproj", "{70B9893F-72F8-4B5F-A9CF-732E538D6C9E}"
