@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=Sidekick
+Comment=A POE/POE2 Pricecheck tool.
+Exec=/usr/bin/sidekick
+Icon=/opt/sidekick/icon.png
+Terminal=false
+Type=Application
+Categories=Game
